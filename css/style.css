@@ -1,0 +1,21 @@
+:root {
+    --soft-blue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
+
+    --vd-blue-main-bg: hsl(217, 54%, 11%);
+    --vd-blue-card-bg: hsl(216, 50%, 16%);
+    --vd-blue: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Outfit";
+    font-size: 1.125rem;
+}
